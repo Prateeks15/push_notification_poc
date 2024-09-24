@@ -22,6 +22,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "73055e43-2e3f-4c8b-9ec6-8daee9d270ee"
+      }
+    },
+    "owner": "prateek1502"
   }
 }
